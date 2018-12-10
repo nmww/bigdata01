@@ -24,7 +24,7 @@ git push -u origin master
 ```
 # ¡­or push an existing repository from the command line
 ```
-git remote add origin git@github.com:nmww/p1804_ceshi.git
+git remote add origin git@github.com:nmww/bigdata01.git
 git push -u origin master
 
 ```
