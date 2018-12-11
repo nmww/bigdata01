@@ -7,6 +7,8 @@ bigdata study about hadoop1 20181203 + 15+days
 
 ## [hadoop study](https://hadoop.apache.org/)
 
+## [CSDN blog](https://blog.csdn.net/ccorg)
+
 
 ***
 
