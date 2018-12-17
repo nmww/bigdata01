@@ -5,9 +5,11 @@ bigdata study about hadoop1 20181203 + 15+days
 
 ## [push code to git](https://github.com/nmww/p1804_ceshi/blob/master/README.md)
 
-## [hadoop study](https://hadoop.apache.org/)
+## [HADOOP STUDY](https://hadoop.apache.org/)
 
-## [CSDN blog](https://blog.csdn.net/ccorg)
+## [CSDN BLOG](https://blog.csdn.net/ccorg)
+
+## [TEACH VIDEO](http://list.youku.com/albumlist/show/id_51998261.html)
 
 
 ***
